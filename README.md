@@ -46,5 +46,5 @@ The project provides the following functionality:
 
 ---
 
-## Example Output
+
 
